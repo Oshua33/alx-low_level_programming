@@ -6,14 +6,16 @@
 *Return: void
 */
 
+int _putchar(int x);
+
 void print_numbers(void)
 {
-	char c;
+	int x;
 
-	for (c = '0'; c <= '9'; c++)
+	for (x = '0'; x <= '9'; x++)
 
 	{
-		_putchar(c + '0');
+	_putchar(x);
 	}
 	_putchar ('\n');
 }
