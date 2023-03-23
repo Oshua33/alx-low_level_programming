@@ -2,7 +2,7 @@
 
 /**
 * print_numbers - print num 0 - 9
-*
+*@x: integer value
 *Return: void
 */
 
