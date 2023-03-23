@@ -1,12 +1,9 @@
 #include "main.h"
 
 /**
-* print_numbers - print num 0 - 9
-*@x: integer value
+*print_numbers - print num 0 - 9
 *Return: void
 */
-
-int _putchar(int x);
 
 void print_numbers(void)
 {
