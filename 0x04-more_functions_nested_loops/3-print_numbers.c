@@ -6,7 +6,7 @@
 *Return: void
 */
 
-int putchar(int x);
+int _putchar(int x);
 
 void print_numbers(void)
 {
@@ -15,7 +15,7 @@ void print_numbers(void)
 	for (x = '0'; x <= '9'; x++)
 
 	{
-	putchar(x);
+	_putchar(x);
 	}
-	putchar ('\n');
+	_putchar ('\n');
 }
