@@ -1,6 +1,7 @@
 #include "main.h"
 
-/** _atoi - covert a string to an integer
+/**
+ * _atoi - covert a string to an integer
  * @s: The pointer to convert
  * Return: integer
  */
