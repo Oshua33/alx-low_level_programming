@@ -1,0 +1,6 @@
+#!/bin/bash
+
+VAR1="$1"
+git add .
+git commit -m "replace with $1"
+git push 
