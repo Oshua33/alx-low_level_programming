@@ -3,7 +3,7 @@
 #include "lists.h"
 
 /**
- * fre_list - function that frees a linked list
+ * free_list - function that frees a linked list
  * @head: list_t list to be free
  */
 
