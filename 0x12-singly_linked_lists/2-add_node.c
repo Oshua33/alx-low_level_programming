@@ -3,7 +3,7 @@
 #include "lists.h"
 
 /**
- * add_note - this function adds a new node at the beginning of a linked list
+ * add_node - this function adds a new node at the beginning of a linked list
  * @head: double pointer
  * @str: new string
  *
