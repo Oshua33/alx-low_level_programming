@@ -9,7 +9,7 @@ void first(void) __attribute__((constructor));
 
 void first(void)
 {
-	printf("you are beat! and yet, you must allow,\n");
+	printf("you're beat! and yet, you must allow,\n");
 	printf("i bore my house upon my back!\n");
 }
 
